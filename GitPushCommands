@@ -1,0 +1,21 @@
+1. Create a repository
+2.Open cmd 
+3.Type the following commands:
+
+	1.Move the folder where the code exist my cd command
+	2.git init
+	3.git add .(. - this Dot is the period which adds everthing)
+	4.git status
+	5.git commit -m " (Sample Description) "
+	6.Copy the URL of the git repository
+	7.git remote add origin " (Paste the url)"
+	8.git push -u origin master
+
+
+
+Finally check the repository, Thes code existss!!!!
+
+
+
+Note: If you want add the code in the existing branch 
+			-git remove rm origin
